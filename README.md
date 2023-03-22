@@ -1,5 +1,5 @@
 # EPWPWriter
- Python script for extrapolating stabilized single-point (SSP) brick element stresses to equivalent nodal stress.
+ Python script for calculating Excess Pore Water Pressure Ratio (EPWPR) according to fully-coupled stabilized single-point (SSP) brick element stresses.
 > Created by:  **Chris McGann**, **Pedro Arduino**: University of Washington <br/> Re-Written in python by: **Abolfazl Najafi**: Iran Univ. of Science and Tech.
 
 **Mail:** abolfazlbox [at] gmail - **Webpage:** [najafice.github.io](https://najafice.github.io)
