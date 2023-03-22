@@ -2,7 +2,7 @@ import os
 import numpy as np
 
 print('--------------------------------------')
-print('Python script for extrapolating element gauss-point stress to equivalent nodal stress.')
+print('Python script for calculating excess pore water pressure ratio for OpenSees SSPBrickUP element.')
 print('Created by:  Chris McGann, Pedro Arduino: University of Washington')
 print('Re-Written in python by: Abolfazl Najafi: Iran Univ. of Science and Tech.')
 print('Mail: abolfazlbox@gmail.com - Webpage: najafice.github.io')
